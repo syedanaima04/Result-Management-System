@@ -18,7 +18,7 @@ public:
         data = student;
         left = NULL;
         right = NULL;
-        height = 1; // A newly created leaf has height 1.
+        height = 1; // A newly created leaf aways has height 1.
     }
 };
 
